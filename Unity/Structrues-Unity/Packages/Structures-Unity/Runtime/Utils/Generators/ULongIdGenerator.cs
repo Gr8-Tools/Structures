@@ -1,4 +1,4 @@
-﻿using System.Linq;
+﻿/*using System.Linq;
 using NuclearGames.StructuresUnity.Extension;
 using NuclearGames.StructuresUnity.Extensions;
 
@@ -17,4 +17,4 @@ namespace NuclearGames.StructuresUnity.Utils.Generators {
             return GenerateNewRange(default, count);
         }
     }
-}
+}*/

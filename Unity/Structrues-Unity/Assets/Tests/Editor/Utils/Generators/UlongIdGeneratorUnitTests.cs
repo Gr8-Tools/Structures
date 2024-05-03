@@ -1,4 +1,4 @@
-﻿using NuclearGames.StructuresUnity.Utils.Generators;
+﻿/*using NuclearGames.StructuresUnity.Utils.Generators;
 
 namespace Tests.Editor.Utils.Generators {
     public class UlongIdGeneratorUnitTests : BaseIdGeneratorsUnitTests<ULongIdGenerator, ulong> {
@@ -6,4 +6,4 @@ namespace Tests.Editor.Utils.Generators {
             return new ULongIdGenerator((ulong)size);
         }
     }
-}
+}*/

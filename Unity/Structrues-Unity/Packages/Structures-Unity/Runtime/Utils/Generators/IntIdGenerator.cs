@@ -1,4 +1,4 @@
-﻿using System.Linq;
+﻿/*using System.Linq;
 
 namespace NuclearGames.StructuresUnity.Utils.Generators {
     public class IntIdGenerator : BaseIdGenerator<int> {
@@ -18,4 +18,4 @@ namespace NuclearGames.StructuresUnity.Utils.Generators {
             return Enumerable.Range(start, count).ToArray();
         }
     }
-}
+}*/

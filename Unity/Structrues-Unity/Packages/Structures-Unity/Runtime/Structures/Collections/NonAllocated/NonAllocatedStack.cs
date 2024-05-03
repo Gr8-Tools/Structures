@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using BinarySerialization.Extensions;
 using JetBrains.Annotations;
 
@@ -106,4 +106,4 @@ namespace NuclearGames.StructuresUnity.Structures.Collections.NonAllocated {
 
 #endregion
     }
-}
+}*/

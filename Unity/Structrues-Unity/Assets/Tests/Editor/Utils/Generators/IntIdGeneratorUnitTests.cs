@@ -1,4 +1,4 @@
-﻿using NuclearGames.StructuresUnity.Utils.Generators;
+﻿/*using NuclearGames.StructuresUnity.Utils.Generators;
 
 namespace Tests.Editor.Utils.Generators {
     public class IntIdGeneratorUnitTests : BaseIdGeneratorsUnitTests<IntIdGenerator, int> {
@@ -6,4 +6,4 @@ namespace Tests.Editor.Utils.Generators {
             return new IntIdGenerator(size);
         }
     }
-}
+}*/

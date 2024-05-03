@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.Collections;
 using System.Collections.Generic;
 using JetBrains.Annotations;
@@ -582,4 +582,4 @@ namespace NuclearGames.StructuresUnity.Structures.BCST {
 
 #endregion
     }
-}
+}*/
