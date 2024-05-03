@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using BinarySerialization.Extensions;
 using Unity.Collections.LowLevel.Unsafe;
 
@@ -283,4 +283,4 @@ namespace NuclearGames.StructuresUnity.Structures.Collections.NonAllocated {
 
 #endregion
     }
-}
+}*/

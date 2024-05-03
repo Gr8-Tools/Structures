@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using NuclearGames.StructuresUnity.Structures.Collections.NonAllocated;
 using NUnit.Framework;
 using UnityEngine;
@@ -304,4 +304,4 @@ namespace NuclearGames.StructuresUnity.Tests.Editor.Structures.Collections.NonAl
 
 #endregion
     }
-}
+}*/

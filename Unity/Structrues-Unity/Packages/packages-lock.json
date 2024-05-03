@@ -15,13 +15,6 @@
       "dependencies": {},
       "hash": "33d32baea4d50040e0601b725a694dcf3dcf6640"
     },
-    "com.gr8-tools.binary-serialization": {
-      "version": "https://github.com/Gr8-Tools/Unity-Serialization.git?path=Packages/Binary-Serialization",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "c7d1c13833f960a898c2f3a3ac7045332f7ee102"
-    },
     "com.unity.collab-proxy": {
       "version": "1.15.4",
       "depth": 0,
